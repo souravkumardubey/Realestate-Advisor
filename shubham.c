@@ -52,7 +52,7 @@ char R[16]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
  login:
  	system("cls");
  printf("\t\t\t\tAdmin/User\n");
- printf("\t\t\t\t[1]Admin\n\t\t\t\t[2]User\n\t\t\t\t[0]Exit\n");
+ printf("\t\t\t\t[1]Admin\n\t\t\t\t[2]User\n\t\t\t\t[0]Exxxxxxxxxxxit\n");
  printf("\t\t\t\tEntetr your choice");
  scanf("%d",&ch);
  switch(ch)
