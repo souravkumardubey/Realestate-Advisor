@@ -23,11 +23,11 @@ struct seller
     system("shieldofficial.mp3");
 char R[16]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
  system("color Ce");
- printf("\t\t\t                  @     @  @@@@@ @     @@@@@   @@   @     @ @@@@@\n");
+ printf("\t\t\t                  @     @  @@@@@ @     @@@@@   @@   @     @ @@@@@@\n");
  printf("\t\t\t                  @     @  @     @     @     @    @ @ @ @ @ @    \n");
- printf("\t\t\t                  @  @  @  @@@@  @     @     @    @ @  @  @ @@@@ \n");
+ printf("\t\t\t                  @  @  @  @@@@  @     @     @    @ @  @  @ @@@@@ \n");
  printf("\t\t\t                  @ @ @ @  @     @     @     @    @ @     @ @    \n");
- printf("\t\t\t                  @     @  @@@@@ @@@@@ @@@@@   @@   @     @ @@@@@\n\n\n");
+ printf("\t\t\t                  @     @  @@@@@ @@@@@ @@@@@   @@   @     @ @@@@@@\n\n\n");
  printf("\t\t\t                                  @@@@@@@    @@\n ");
  printf("\t\t\t                                     @     @    @\n");
  printf("\t\t\t                                     @     @    @\n");
