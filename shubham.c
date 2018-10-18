@@ -3,7 +3,7 @@
 #include<string.h>
 #include<process.h>
 #include<stdlib.h>
-#include<dos.h>
+#include<do.h>
 #include<windows.h>
 
 struct seller
